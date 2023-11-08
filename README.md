@@ -1,0 +1,2 @@
+# automatos
+Estudo sobre autômatos.
