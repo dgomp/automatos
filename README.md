@@ -1,5 +1,5 @@
 # Autômatos Finitos Não Determinísticos
-Estudo sobre autômatos finitos não determinísticos (AFND).
+Estudo sobre autômatos finitos não determinísticos (AFND), baseado em exercício para a cadeira de "Linguagens e Autômatos", do professor França (Uni7).
 
 
 ## O que é?
@@ -132,3 +132,5 @@ Estudo sobre autômatos finitos não determinísticos (AFND).
     | `s0`    | `{s0, s1}` | `{s0}` |
     | `s1`    |   `{s2}`   |   `-`  |
     | `s2`    |   `{s2}`   | `{s2}` |
+
+  `Os testes foram realizados através do [Automaton Simulator](https://automatonsimulator.com).
